@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.exe
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.deps.json
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.runtimeconfig.json
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.dll
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\bin\Debug\net6.0\ConsoleApp_1.pdb
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.dll
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\refint\ConsoleApp_1.dll
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.pdb
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ConsoleApp_1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Лена\geekBrains\С#\ProgrammesSeminars\Seminars\Seminar_1\ConsoleApp_1\obj\Debug\net6.0\ref\ConsoleApp_1.dll
