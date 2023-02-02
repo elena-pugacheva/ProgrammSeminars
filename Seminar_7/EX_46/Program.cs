@@ -16,7 +16,7 @@ int[,] GetRandomMatrix (int rows, int columns, int leftRange, int rightRange)   
             matr [i,j]= new Random(). Next (leftRange,rightRange+1);
         }
     }
-    return matrix;
+    return matr;
 }
 
 void PrintMatrix(int[,] matr)         //напечатали массив
