@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\bin\Debug\net6.0\EX_63.exe
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\bin\Debug\net6.0\EX_63.deps.json
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\bin\Debug\net6.0\EX_63.runtimeconfig.json
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\bin\Debug\net6.0\EX_63.dll
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\bin\Debug\net6.0\EX_63.pdb
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.AssemblyInfo.cs
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.dll
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\refint\EX_63.dll
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.pdb
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\EX_63.genruntimeconfig.cache
+C:\Users\admin\Desktop\ЛЕНА\GEEKBRAINS УЧЕБА\С#\ProgrammesSeminars\Seminars\Seminar_9\EX_63\obj\Debug\net6.0\ref\EX_63.dll
